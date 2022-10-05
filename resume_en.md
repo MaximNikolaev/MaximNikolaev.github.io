@@ -3,7 +3,6 @@ title: Maxim Nikolaev Resume
 filename: resume_en.md
 --- 
 
-
 Maxim Nikolaev
 =============
 
@@ -23,16 +22,16 @@ Work Experience
 
 *February 2021 - May 2022* (1 year 4 months)
 
-- Launched 1С ERP 2.5 with full data transition from 1C Pharmacy network management (Trade management 11)
+- Launched 1С ERP 2.5 with transition of all data from 1C Pharmacy network management (Trade management 11)
 - Integrated library for track and trace system (MDLP) for medicals into 1C ERP applied solution
 - Launched usage of mobile computer in a warehouse with track and trace medicals [Urovo DT50](https://en.urovo.com/products/mobile/dt50.html), 1C:Mobile trade
-- Implemented the mechanism of accounting of suppliers prices for the formation of 'Protocols for the coordination of prices for medicines'
+- Implemented the mechanism for accounting suppliers prices for the formation of 'Protocols for the coordination of prices for medicines'
 - Implemented module with Request for Shipment
 - Initiated usage of Universal Transfer Document (simpler, suitable for electronic document exchange)
 - Implemented collection of Cash Flow Budget (1C BIT.Finance, clean room construction division)
 - Assisted users with state track and trace system [Chestny ZNAK](https://chestnyznak.ru/en/business/projects/medicines/) (MDLP)
 - Held training seminars for employees to work in 1C: setting up managed forms, setting up reports based on [Data Composition System](https://1c-dn.com/library/tutorials/practical_developer_guide_data_composition_system/)
-- Consulted employees on the organization of the operational activities of trade organizations;
+- Consulted employees on the organization of the operational activities of trade organizations
 - Assisted employees with work in various 1C applied solutions: Accounting 3, Human resource management 3, Pharmacy network management (Trade management 11), Document management
 - Developed various [External data processors](https://1c-dn.com/1c_enterprise/external_data_processors/), [External reports](https://1c-dn.com/1c_enterprise/external_reports/)
 - Modified standard 1C applied solutions, including using the [extensions](https://1c-dn.com/1c_enterprise/extensions/) mechanism
@@ -65,11 +64,10 @@ Work Experience
 
 *March 2014 - October 2018* (4 years 8 months)
 
-- Determined goods surpluses of 1.5mil usd. The method of their rational use is proposed and implemented
+- Determined goods surpluses of 1.5M USD. The method of their rational use is proposed and implemented
 - Combined data from 10 databases to a single database 1C ERP 1.3. Transferred 3 years of work data. Simplified usage of high-level reports
 - Implemented numerous changes in trade, financial, accounting management
 - Managed tasks for programmers and key employees
-
 
 ### **Developer** at Center of Physical-Chemical Medicine, Belozersky Institute of Physico-Chemical Biology MSU
 
