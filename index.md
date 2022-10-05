@@ -4,7 +4,7 @@
 Разработчик, Аналитик
 -----------------------
 
-[English version](resume_en.md)
+[English version](https://maximnikolaev.github.io/resume_en)
 
 - Email: max.nikolaev.m@gmail.com
 - Github: [MaximNikolaev](https://github.com/MaximNikolaev/)

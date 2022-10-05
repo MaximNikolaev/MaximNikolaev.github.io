@@ -11,6 +11,8 @@ Maxim Nikolaev
 1C Developer, Analyst, Consultant
 -----------------------
 
+[Russian version](https://maximnikolaev.github.io)
+
 - Email: max.nikolaev.m@gmail.com
 - Github: [MaximNikolaev](https://github.com/MaximNikolaev/)
 - Telegram: [@nikolaevmy](https://t.me/nikolaevmy)
