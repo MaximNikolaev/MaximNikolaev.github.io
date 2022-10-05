@@ -1,6 +1,5 @@
 ---
 title: Maxim Nikolaev Resume
-layout: template
 filename: resume_en.md
 --- 
 
