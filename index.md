@@ -118,6 +118,9 @@ _кафедра Микро- и наноэлектроники, Инженер-ф
 
 - PostgreSQL, _Центр Специалист 2022_
 - Java, _Центр Специалист 2022_
+- 1C Senior Developer, _1Ci Academy 2022_
+- 1C Junior Developer, _1Ci Academy 2022_
+- 1C Engineer, _1Ci Academy 2022_
 - Нейронные сети, _МИФИ 2018_
 - Программирование C/C++, _Центр Специалист 2015_
 - Международные стандарты финансовой отчетности, _Центр Специалист 2012_
@@ -136,6 +139,7 @@ _кафедра Микро- и наноэлектроники, Инженер-ф
 - [Java Basic](https://www.hackerrank.com/certificates/e9a5ae2f8582), _HackerRank 2022_
 - [Bioinformatics: Finding Hidden Messages in DNA](https://www.coursera.org/account/accomplishments/records/urjvSfPsaTC9P6v8), _Coursera 2015_
 - ITIL/ITSM - Foundation certificate in IT Service Management, _EXIN 2009_
+- 1С Профессионал: Платформа 8.3, _Фирма 1С 2022_
 - Специалист-Консультант, _Фирма 1С 2008_
 
 Прочее

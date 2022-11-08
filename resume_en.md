@@ -9,7 +9,7 @@ Maxim Nikolaev
 1C Developer, Analyst, Consultant
 -----------------------
 
-- Email: max.nikolaev.m@gmail.com
+- Email: max.nikolaev.tr@gmail.com
 - Github: [MaximNikolaev](https://github.com/MaximNikolaev/)
 - Telegram: [@nikolaevmy](https://t.me/nikolaevmy)
 
@@ -116,6 +116,9 @@ Additional education
 
 - PostgreSQL, _"Specialist" Computer Training Center 2022_
 - Java, _"Specialist" Computer Training Center 2022_
+- 1C Senior Developer, _1Ci Academy 2022_
+- 1C Junior Developer, _1Ci Academy 2022_
+- 1C Engineer, _1Ci Academy 2022_
 - Neural networks, _MEPHI 2018_
 - Programming with C/C++, _"Specialist" Computer Training Center 2015_
 - International Financial Reporting Standards IFRS, _"Specialist" Computer Training Center 2012_
@@ -134,6 +137,7 @@ Exams
 - [Java Basic](https://www.hackerrank.com/certificates/e9a5ae2f8582), _HackerRank 2022_
 - [Bioinformatics: Finding Hidden Messages in DNA](https://www.coursera.org/account/accomplishments/records/urjvSfPsaTC9P6v8), _Coursera 2015_
 - ITIL/ITSM - Foundation certificate in IT Service Management, _EXIN 2009_
+- 1C Professional: Platform 8.3, _1C Company 2022_
 - Specialist-Consultant, _1C Company 2008_
 
 Additional activities
