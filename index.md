@@ -1,150 +1,145 @@
-Максим Николаев
+Maksim Nikolaev
 =============
 
-Разработчик, Аналитик
+1C Developer, Analyst, Consultant
 -----------------------
 
-[English version](https://maximnikolaev.github.io/resume_en)
+[Russian version](https://maximnikolaev.github.io/resume_ru)
 
-- Email: max.nikolaev.m@gmail.com
+- Email: max.nikolaev.tr@gmail.com
 - Github: [MaximNikolaev](https://github.com/MaximNikolaev/)
 - Telegram: [@nikolaevmy](https://t.me/nikolaevmy)
+- LinkedIn: [linkedin.com/in/nikolaevmy](https://www.linkedin.com/in/nikolaevmy/)
 
-
-Опыт работы
+Work Experience
 ----------
+**(>15 years)**
 
-### **Разработчик программного обеспечения и баз данных** в [ООО "Русбиофарм"](https://rbpharm.ru/)
+### **1C Developer** at [RusBioPharm](https://rbpharm.ru/)
 
-*Февраль 2021 - Май 2022* (1 год 4 месяца)
+*February 2021 - May 2022* (1 year 4 months)
 
-- Реализован проект перехода на 1С ERP 2.5 с переносом всех данных за 2 года из конфигурации Управление аптечной сетью (УАС/УТ11)
-- Внедрена 1C:Библиотека интеграции МДЛП в конфигурацию ERP (приемка, отгрузка, разагрегация)
-- Внедрена работа с ТСД на складе маркированных лекарственных препаратов с использованием Urovo DT50, 1С:Мобильная торговля
-- Реализован механизм учета цен поставщиков для формирования Протоколов согласований цен по лекарственным препаратам
-- Реализована подсистема Заявок на отгрузку для систематизации взаимодействия отдела продаж, склада, службы доставки
-- Инициирован переход на работу с Универсальным Передаточным Документом УПД при отгрузке товаров клиентам
-- Реализован сбор Бюджета Движений Денежных Средств БДДС на базе БИТ.Финанс (строительство, Бухгалтерия КОРП)
-- Консультирование сотрудников по работе с системой маркировки лекарств Честный Знак (МДЛП)
-- Проведены обучающие семинары для сотрудников по работе в 1С: настройка управляемых форм документов и справочников, настройка отчетов на базе СКД
-- Консультирование по вопросам организации операционной деятельности торговых организаций;
-- Консультирование сотрудников по работе и отражению операций в 1С Бухгалтерия 3 КОРП, Зарплата и Управление Персоналом 3, Управление Аптечной Сетью (Управление Торговлей 11), Документооборот КОРП
-- Разработка дополнительных обработок, отчетов
-- Доработка типовых конфигураций, в т.ч. с использованием механизма расширений
-- Настройка прав доступа RLS
+- Launched 1С ERP 2.5 with transition of all data from 1C Pharmacy network management (Trade management 11)
+- Integrated library for track and trace system (MDLP) for medicals into 1C ERP applied solution
+- Launched usage of mobile computer in a warehouse with track and trace medicals [Urovo DT50](https://en.urovo.com/products/mobile/dt50.html), 1C:Mobile trade
+- Implemented the mechanism for accounting suppliers prices for the formation of 'Protocols for the coordination of prices for medicines'
+- Implemented module with Request for Shipment
+- Initiated usage of Universal Transfer Document (simpler, suitable for electronic document exchange)
+- Implemented collection of Cash Flow Budget (1C BIT.Finance, clean room construction division)
+- Assisted users with state track and trace system [Chestny ZNAK](https://chestnyznak.ru/en/business/projects/medicines/) (MDLP)
+- Held training seminars for employees to work in 1C: setting up managed forms, setting up reports based on [Data Composition System](https://1c-dn.com/library/tutorials/practical_developer_guide_data_composition_system/)
+- Consulted employees on the organization of the operational activities of trade organizations
+- Assisted employees with work in various 1C applied solutions: Accounting 3, Human resource management 3, Pharmacy network management (Trade management 11), Document management
+- Developed various [External data processors](https://1c-dn.com/1c_enterprise/external_data_processors/), [External reports](https://1c-dn.com/1c_enterprise/external_reports/)
+- Modified standard 1C applied solutions, including using the [extensions](https://1c-dn.com/1c_enterprise/extensions/) mechanism
+- Configured Row-Level Security in 1C ERP [RLS](https://1c-dn.com/blog/setting-access-rights-in-1c-enterprise-rls-record-level-security/) Access Rights
 
-### **Разработчик программного обеспечения и баз данных** в ООО "Компьютайм"
+### **TechLead** at Computime
 
-*Сентябрь 2020 - Ноябрь 2020* (3 месяца)
+*September 2020 - November 2020* (3 months)
 
-- Ведение Проекта создания Медицинской Информационной Системы (МИС) по Госконтракту с Федеральным Ресурсным Центром Минздрава России
-- МИС построен на базе продуктов 1С.Больница, 1С.Больничная аптека, 1С.Клиническая лаборатория, 1С.Федеральные регистры на серверах Минздрава (CentOS, PostgreSQL, Apache)
-- Развернуты и заполнены информационные базы 1С в части запуска МИС
-- Составлено расписание выполнения работ по Проекту и сдачи отчетной документации
-- Подготовлены выступления на совещаниях рабочих групп ФРЦ Минздрава
-- Организована работа программистов и консультантов по обследованию медицинских учреждений
-- Руководство командой проекта (7 сотрудников)
+- Leading project on launching Medical information system (MIS) for State institution
+- Deployed MIS used 1C applied solutions - Hospital, Pharmacy, Diagnostic laboratory (environment - CentOS, PostgreSQL, Apache)
+- Prepared Work Breakdown Structure and other tech documents for MIS project
+- Prepared presentations for working groups
+- Team management - developers, consultants (up to 7 employees)
 
-### **Разработчик программного обеспечения и баз данных** в [ФГБУ Федеральный Научно-Клинический Центр ФХМ ФМБА России](http://rcpcm.org/)
+### **1C Developer** в [Federal Research and Clinical Center of Physical-Chemical Medicine of Federal Medical Biological Agency](http://rcpcm.org/)
 
-*Декабрь 2018 - Март 2020* (1 год 4 месяца)
+*December 2018 - March 2020* (1 year 4 months)
 
-- Реализован проект перехода на новую редакцию 1С: Бухгалтерия гос. учреждения с переносом и одновременной корректировкой данных за 7 месяцев с целью построения финансового учета
-- Внедрена складская программа 1С: Больничная аптека, реализован обмен с бухгалтерией
-- Реализован проект по объединению баз 1С: Зарплата и кадры гос. учреждения
-- Реализован проект по внедрению штрихкодирования на складе материальных запасов
-- Внедрена подсистема взаимодействия 1С: Бухгалтерия государственного учреждения с порталом ГосЗакупки. Выявлена и исправлена проблема с поврежденными сетевыми пакетами на сервере
-- Выявлены проблемы, препятствующие построению модели финансового учета (БДР и БДДС), предложен и реализован план по приведению системы в корректное состояние
-- Разработана архитектура взаимодействия информационных систем, используемых в учреждении: Бухгалтерия, Зарплата, Медицинская информационная система и других
-- Проведены подбор и ввод в эксплуатацию терминалов сбора данных для маркировки основных средств и системы Мониторинга Движения Лекарственных Препаратов
-- Организовано обучение сотрудников бухгалтерии и кадров на семинарах фирмы 1С
+- Launched new revision of applied solution 1C:State Accounting with data transfer and corrections from previous version, removed legacy code
+- Launched WMS 1C:Pharmacy with data exchange with 1C:State Accounting
+- Implemented project on combining 3 databases of 1C:Human resource management for State institutions
+- Launched barcoding (printer+scanner)
+- Integrated library for data interchange with state procurement system
+- Fixed errors in data, that were preventing formation of various financial budgets
+- Prepared usage of mobile computer in a warehouse for track and trace medicals
+- Organized training for accounting staff at 1C company seminars
 
-### **Разработчик программного обеспечения и баз данных** в Группа компаний ПолИмпЭкс
+### **1C Developer** at Polimpex
 
-*Март 2014 - Октябрь 2018* (4 года 8 месяцев)
+*March 2014 - October 2018* (4 years 8 months)
 
-- Определены товарные излишки на 90 млн. руб. Предложена и реализована методика их рационального использования
-- Объединены данные десяти филиалов в единую базу 1С: Управление Производственным Предприятием. Перенесены все данные по управленческому и бухгалтерскому учету за три года. Получена возможность использования стандартных отчетов в рамках всего холдинга
-- Ведение проектов по изменениям в управленческом и бухгалтерском учетах, с автоматизацией в действующей информационной системе
-- Постановка задач программистам и ключевым сотрудникам
-- Консультации по ведению бухгалтерского и управленческого документооборота
+- Determined goods surpluses of 1.5M USD. The method of their rational use is proposed and implemented
+- Combined data from 10 databases to a single database 1C ERP 1.3. Transferred 3 years of work data. Simplified usage of high-level reports
+- Implemented numerous changes in trade, financial, accounting management
+- Managed tasks for programmers and key employees
 
+### **Developer** at Center of Physical-Chemical Medicine, Belozersky Institute of Physico-Chemical Biology MSU
 
-### **Разработчик программного обеспечения и баз данных** в НИИ Физико-Химической Медицины, НИИ Физико-Химической Биологии им. Белозерского МГУ
+*October 2014 - October 2016* (2 years 1 month)
 
-*Октябрь 2014 - Октябрь 2016* (2 года 1 месяц)
+- Participated in personalised medicine project
+- Processed genomic data of Next Generation Sequencing (Linux: Python, FastQC, Trimmomatic, Bowtie)
+- Bacterial genome analysis with [Nucleotide pangenome explorer](https://github.com/npge)
 
-- Работа в проекте персонализованной медицины на основании кластеризации данных биохимических исследований пациентов и анализа ассоциаций полиморфизмов в генах с заболеваниями: создание базы данных для врачей для оценки медицинских рисков мультифакторных заболеваний
-- Обработка результатов NGS секвенирования (Linux: Python, FastQC, Trimmomatic, Bowtie)
-- Анализ геномов бактерий с использованием Nucleotide pangenome explorer
+### **Founder and TeamLead** at CoNSI Group 1C-franchisee
 
-### **Разработчик программного обеспечения и баз данных** в ООО "КоНСИ Групп" 1С-Франчайзи
+*November 2010 - March 2014* (3 years 5 months)
 
-*Ноябрь 2010 - Март 2014* (3 года 5 месяцев)
+- Launched project of internal sales via commission for a large trade holding
+- Organized of all work of the company (up to 7 employees)
+- Signed contracts for development and technical support of 1C applied solutions
+- Accounting and financial reporting
+- Leading projects on launching 1C information systems
 
-- Реализован проект работы внутренних продаж по комиссии для крупного холдинга
-- Организация всей работы компании (до 7 сотрудников в подчинении)
-- Формирование базы клиентов, заключение договоров на разработку и техподдержку
-- Ведение бухгалтерии, подготовка и сдача отчетности
-- Ведение проектов по внедрению автоматизированных информационных систем
+### **Project manager** at CPASU 1C-franchisee
 
-### **Разработчик программного обеспечения и баз данных** в ООО "Центр Проектирования АСУ" 1С-Франчайзи
+*September 2006 - November 2010* (4 years 3 months)
 
-*Сентябрь 2006 - Ноябрь 2010* (4 года 3 месяца)
+- Head of consulting projects (2-4 subordinates) with further implementation of information systems based on 1C applied solutions
+- Advised on the organization of the operational activities of trade organizations
+- Developed external data processors and reports
+- Modified standard 1C applied solutions
 
-- Руководитель консалтинговых проектов (2-4 сотрудника в подчинении) с дальнейшим внедрением информационных систем на базе конфигураций 1С
-- Внедрение автоматизированных информационных систем
-- Консультирование по вопросам организации операционной деятельности торговых организаций
-- Разработка дополнительных обработок, отчетов
-- Доработка типовых конфигураций
-
-Образование
+Education
 ---------
 
-АНО ДПО "Национальный исследовательский институт дополнительного образования и профессионального обучения"
+National Research Institute of Additional Education
 
-_Менеджер в здравоохранении, 2020_
+_Healthcare management, 2020_
 
-Московский институт современного академического образования
+Moscow Institute of Modern Academic Education
 
-_Экономист-аналитик, 2020_
+_Economic analyst, 2020_
 
-#### [Национальный исследовательский ядерный университет "МИФИ"](https://mephi.ru/)
+#### [National Research Nuclear University "MEPHI"](https://eng.mephi.ru/)
 
-_кафедра Микро- и наноэлектроники, Инженер-физик, 2008_
+_Micro- and nanoelectronics, Engineer-physicist, 2008_
 
-Повышение квалификации, курсы
+Additional education
 -----------------
 
-- PostgreSQL, _Центр Специалист 2022_
-- Java, _Центр Специалист 2022_
+- PostgreSQL, _"Specialist" Computer Training Center 2022_
+- Java, _"Specialist" Computer Training Center 2022_
 - 1C Senior Developer, _1Ci Academy 2022_
 - 1C Junior Developer, _1Ci Academy 2022_
 - 1C Engineer, _1Ci Academy 2022_
-- Нейронные сети, _МИФИ 2018_
-- Программирование C/C++, _Центр Специалист 2015_
-- Международные стандарты финансовой отчетности, _Центр Специалист 2012_
-- Управление сервисами в ИТ ITSM/ITIL, _Центр Специалист 2009_
-- Управление проектами PMI PMBoK, _Центр Специалист 2009_
-- Microsoft Operation Framework, _Центр Специалист  2009_
-- ITIL, _Центр Специалист 2009_
-- Обзор прикладного решения "1С:Управление холдингом 8", _Фирма 1С 2022_
-- 1С Консультант, _Фирма 1С 2008_
-- Бухгалтерский учет, _МГУ 2008_
-- Основы администрирования и безопасности UNIX (Linux), _Центр Специалист 2008_
+- Neural networks, _MEPHI 2018_
+- Programming with C/C++, _"Specialist" Computer Training Center 2015_
+- International Financial Reporting Standards IFRS, _"Specialist" Computer Training Center 2012_
+- IT Service Management ITSM/ITIL, _"Specialist" Computer Training Center 2009_
+- Project Management PMI PMBoK, _"Specialist" Computer Training Center 2009_
+- Microsoft Operation Framework, _"Specialist" Computer Training Center  2009_
+- ITIL, _"Specialist" Computer Training Center 2009_
+- Overview of applied solution ["1C:CPM"](https://v8.1c.ru/cpm/), _1C Company 2022_
+- 1C Consultant, _1C Company 2008_
+- Accounting, _Moscow State University MSU 2008_
+- Administration and security fundamentals Linux, _"Specialist" Computer Training Center 2008_
 
-Тесты, экзамены
+Exams
 -----------------
 
 - [Java Basic](https://www.hackerrank.com/certificates/e9a5ae2f8582), _HackerRank 2022_
 - [Bioinformatics: Finding Hidden Messages in DNA](https://www.coursera.org/account/accomplishments/records/urjvSfPsaTC9P6v8), _Coursera 2015_
 - ITIL/ITSM - Foundation certificate in IT Service Management, _EXIN 2009_
-- 1С Профессионал: Платформа 8.3, _Фирма 1С 2022_
-- Специалист-Консультант, _Фирма 1С 2008_
+- 1C Professional: Platform 8.3, _1C Company 2022_
+- Specialist-Consultant, _1C Company 2008_
 
-Прочее
+Additional activities
 -----------------
-- Работал с биоинформатическими данными на Debian Linux в МГУ, результатом стала статья в журнале Биохимия, 2016.
+- Processed bioinformatics data with Debian Linux in Moscow State University, results presented in article in journal Biochemistry, 2016.
   [https://biochemistrymoscow.com/ru/archive/2016/81-01-0115/](https://biochemistrymoscow.com/ru/archive/2016/81-01-0115/)
-- В 2020 году в качестве пет-проекта провел развертывание и запуск медицинской информационной системы на Oracle 11g на Linux.
-  Написал заготовки на PL/SQL для загрузки данных из 1C в БД Oracle через xml.
+- In 2020 year deployed medical information system as a pet-project (Oracle 11g, Linux).
+Developed some examples in PL/SQL for loading 1C data to Oracle database via xml.
