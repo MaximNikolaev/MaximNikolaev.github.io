@@ -131,6 +131,7 @@ Additional education
 Exams
 -----------------
 
+- [1C Junior Developer](https://my.1ci.com/api/v1/user/certificate/97cc6287-588b-454e-a0d7-3a0ddc4f6470/), _1Ci Academy 2022_
 - [Java Basic](https://www.hackerrank.com/certificates/e9a5ae2f8582), _HackerRank 2022_
 - [Bioinformatics: Finding Hidden Messages in DNA](https://www.coursera.org/account/accomplishments/records/urjvSfPsaTC9P6v8), _Coursera 2015_
 - ITIL/ITSM - Foundation certificate in IT Service Management, _EXIN 2009_
