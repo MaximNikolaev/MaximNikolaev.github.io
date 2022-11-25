@@ -34,7 +34,7 @@ Work Experience
 - Modified standard 1C applied solutions, including using the [extensions](https://1c-dn.com/1c_enterprise/extensions/) mechanism
 - Configured Row-Level Security in 1C ERP [RLS](https://1c-dn.com/blog/setting-access-rights-in-1c-enterprise-rls-record-level-security/) Access Rights
 
-### **TechLead** at Computime
+### **TechLead** at Computime 1C-Partner
 
 *September 2020 - November 2020* (3 months)
 
@@ -74,7 +74,7 @@ Work Experience
 - Processed genomic data of Next Generation Sequencing (Linux: Python, FastQC, Trimmomatic, Bowtie)
 - Bacterial genome analysis with [Nucleotide pangenome explorer](https://github.com/npge)
 
-### **Founder and TeamLead** at CoNSI Group 1C-franchisee
+### **Founder and TeamLead** at CoNSI Group 1C-Partner
 
 *November 2010 - March 2014* (3 years 5 months)
 
@@ -84,7 +84,7 @@ Work Experience
 - Accounting and financial reporting
 - Leading projects on launching 1C information systems
 
-### **Project manager** at CPASU 1C-franchisee
+### **Project manager** at CPASU 1C-Partner
 
 *September 2006 - November 2010* (4 years 3 months)
 
