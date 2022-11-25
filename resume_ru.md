@@ -139,6 +139,7 @@ _кафедра Микро- и наноэлектроники, Инженер-ф
 Тесты, экзамены
 -----------------
 
+- [1C Senior Developer](https://my.1ci.com/api/v1/user/certificate/771be01d-bb4f-4be5-88b5-eacecb260e22/), _1Ci Academy 2022_
 - [1C Junior Developer](https://my.1ci.com/api/v1/user/certificate/97cc6287-588b-454e-a0d7-3a0ddc4f6470/), _1Ci Academy 2022_
 - [Java Basic](https://www.hackerrank.com/certificates/e9a5ae2f8582), _HackerRank 2022_
 - [Bioinformatics: Finding Hidden Messages in DNA](https://www.coursera.org/account/accomplishments/records/urjvSfPsaTC9P6v8), _Coursera 2015_
