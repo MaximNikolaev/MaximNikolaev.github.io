@@ -15,6 +15,20 @@ Work Experience
 ----------
 **(>15 years)**
 
+### **1С Tech Lead, Senior Accounting and Finance Consultant** at 1C International partner
+
+*January 2023 - current* (9 months)
+
+- Working with 1C Perform, 1C Drive International / Turkish Edition with programming code in English
+- Working with key employees of the clients and demonstrating project results to company owners in English
+- Set up the development of 1C Drive International / Turkish Edition using repositories and release versioning
+- Launched operating cycle (bank, purchase, sale, warehouse) in 1C Drive databases for several countries
+- Prepared templates for accounting entries for the Turkish and IFRS chart of accounts
+- Prepared the structure of Profit and Losses report for the Group of Companies
+- Setting tasks for developers  and consultants (5 employees / external contractors)
+- Updating modified configuration and consulting clients on 1C Human resource management 3 Kazakhstan
+- Developed external data processors, reports and print forms in multiple languages
+
 ### **1C Developer** at [RusBioPharm](https://rbpharm.ru/)
 
 *February 2021 - May 2022* (1 year 4 months)
@@ -49,8 +63,8 @@ Work Experience
 *December 2018 - March 2020* (1 year 4 months)
 
 - Launched new revision of applied solution 1C:State Accounting with data transfer and corrections from previous version, removed legacy code
-- Launched WMS 1C:Pharmacy with data exchange with 1C:State Accounting
-- Implemented project on combining 3 databases of 1C:Human resource management for State institutions
+- Launched WMS 1C Pharmacy with data exchange with 1C State Accounting
+- Implemented project on combining 3 databases of 1C Human resource management for State institutions
 - Launched barcoding (printer+scanner)
 - Integrated library for data interchange with state procurement system
 - Fixed errors in data, that were preventing formation of various financial budgets
@@ -131,6 +145,7 @@ Additional education
 Exams
 -----------------
 
+- [1C Engineer](https://my.1ci.com/api/v1/user/certificate/9a5b8909-44c0-49af-971d-ad1573b6d250/), _1Ci Academy 2023_
 - [1C Senior Developer](https://my.1ci.com/api/v1/user/certificate/771be01d-bb4f-4be5-88b5-eacecb260e22/), _1Ci Academy 2022_
 - [1C Junior Developer](https://my.1ci.com/api/v1/user/certificate/97cc6287-588b-454e-a0d7-3a0ddc4f6470/), _1Ci Academy 2022_
 - [Java Basic](https://www.hackerrank.com/certificates/e9a5ae2f8582), _HackerRank 2022_
